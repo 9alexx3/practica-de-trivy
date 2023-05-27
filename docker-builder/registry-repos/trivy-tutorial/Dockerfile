@@ -1,4 +1,4 @@
-#frase de prueba PRIM
+#frase de prueba PRIMA
 FROM debian
 
 ENV DEBIAN_FRONTEND noninteractive
